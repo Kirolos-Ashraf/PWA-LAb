@@ -1,0 +1,8 @@
+{
+     "short_name": "Simple PWA",
+     "name": "Progressive Web App",
+     "start_url": "page1.html",
+     "display": "standalone",
+     "orientation": "portrait",
+     "background_color": "#FFFFFF"
+}
